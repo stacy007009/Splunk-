@@ -21,11 +21,10 @@ Step 1–6: Підготовка (скріни з початку роботи)
 
 ## Use Case 1 (приклад): Невдалий вхід під root
 
-**Пошук:**
 ```
 index=main host=mailsv fail* root
 ```
-> 📌 **Вставте скрін тут** (пошук з 41 подією)
+[Screen](‘https://github.com/stacy007009/Splunk-/blob/main/IMG_2762.png’)
 
 **Кількість подій:** 41
 
