@@ -1,8 +1,4 @@
-# Splunk-
-Ось текст, просто скопіюй і встав у свій README.md:
-
-```markdown
-# Splunk — практичне завдання
+# Splunk
 
 Аналіз логів у Splunk Cloud (`index=main`, дані з `tutorialdata.zip`) на прикладі компанії Buttercup Games: пошук невдалих SSH-входів під root, HTTP 4xx/5xx помилок та успішних/невдалих SSH-спроб на різних хостах (`mailsv`, `www1`, `www2`, `www3`).
 
