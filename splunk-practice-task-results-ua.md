@@ -96,7 +96,7 @@ sourcetype=access_* status=40* host=www3
 ```
 sourcetype=access_* status=50*
 ```
-> 📌 **Вставте скрін тут**
+Screen
 
 **Кількість подій:** 306
 
