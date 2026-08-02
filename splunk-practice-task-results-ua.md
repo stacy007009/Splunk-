@@ -108,7 +108,7 @@ Screen
 ```
 sourcetype=access_* status=50* host=www2
 ```
-> 📌 **Вставте скрін тут**
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2771.png)
 
 **Кількість подій:** 88
 
