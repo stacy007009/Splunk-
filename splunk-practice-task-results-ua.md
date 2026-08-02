@@ -180,7 +180,7 @@ sourcetype="secure-2" accept* host=www3
 ```
 sourcetype="secure-2" accept* host=mailsv
 ```
-> 📌 **Вставте скрін тут**
+Screen
 
 **Кількість подій:** 39
 
