@@ -156,7 +156,7 @@ sourcetype="secure-2" fail*
 ```
 sourcetype="secure-2" fail* host=www2
 ```
-> 📌 **Вставте скрін тут**
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2770.png)
 
 **Кількість подій:** 1,289
 
