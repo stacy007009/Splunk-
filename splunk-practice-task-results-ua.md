@@ -13,7 +13,7 @@ Step 1–6: Підготовка (скріни з початку роботи)
 
 
 > - Скрін сторінки "Set Source Type" / завантаження даних [Add Data](https://github.com/stacy007009/Splunk-/blob/main/IMG_2739.png)
-> - Скрін першого базового пошуку `index=main’ [Screen] (https://github.com/stacy007009/Splunk-/blob/main/IMG_2743.png)
+> - Скрін першого базового пошуку `index=main’ [Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2743.png)
 > - Скрін панелі полів (`host`, `source`, `sourcetype`) зі значеннями (5 хостів, 8 джерел, 3 sourcetype)
 > - Скрін після звуження пошуку до `index=main host=mailsv`
 
