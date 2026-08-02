@@ -48,7 +48,7 @@ index=main host=www1 fail* root
 ```
 index=main host=www2 fail* root
 ```
-> 📌 **Вставте скрін тут**
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2764.png)
 
 **Кількість подій:** 57
 
