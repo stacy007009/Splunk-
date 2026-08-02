@@ -132,7 +132,7 @@ sourcetype=access_* status=50* host=www3
 ```
 sourcetype="secure-2" accept*
 ```
-> 📌 **Вставте скрін тут**
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2769.png)
 
 **Кількість подій:** 229
 
