@@ -84,7 +84,7 @@ sourcetype=access_* status=40* host=www1
 ```
 sourcetype=access_* status=40* host=www3
 ```
-> 📌 **Вставте скрін тут**
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2766.png)
 
 **Кількість подій:** 141
 
