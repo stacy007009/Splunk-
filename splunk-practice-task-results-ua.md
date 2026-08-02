@@ -120,7 +120,7 @@ sourcetype=access_* status=50* host=www2
 ```
 sourcetype=access_* status=50* host=www3
 ```
-> 📌 **Вставте скрін тут**
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2761.png)
 
 **Кількість подій:** 113
 
