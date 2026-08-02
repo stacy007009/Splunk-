@@ -144,7 +144,7 @@ sourcetype="secure-2" accept*
 ```
 sourcetype="secure-2" fail*
 ```
-> 📌 **Вставте скрін тут**
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2768.png)
 
 **Кількість подій:** 5,034
 
