@@ -60,7 +60,7 @@ index=main host=www2 fail* root
 ```
 sourcetype=access_* status=40*
 ```
-> 📌 **Вставте скрін тут**
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2765.png)
 
 **Кількість подій:** 439
 
