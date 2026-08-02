@@ -24,7 +24,7 @@ Step 1–6: Підготовка (скріни з початку роботи)
 ```
 index=main host=mailsv fail* root
 ```
-[Screen](‘https://github.com/stacy007009/Splunk-/blob/main/IMG_2762.png’)
+[Screen](https://github.com/stacy007009/Splunk-/blob/main/IMG_2762.png)
 
 **Кількість подій:** 41
 
